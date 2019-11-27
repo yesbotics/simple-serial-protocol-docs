@@ -16,8 +16,18 @@ definiert ist (bsp: `release/2.0.1` oder `release/2.0.1-beta.0`)
 * via textdateien wie im hierigen fall
 * via issues gitlab
 
+### CodeOps
+* git comit message konventionen vereinbaren
+* z.b. Kategorien wie:
+    * CodeOps, DocOps, DevOps
+        * Details
+    * kategorielos
+        * freitext
+     
+
 ### DocOps
-* Markdown Links? [Markdown-Cheatsheet#links]
+* Markdown und ggf. transpiler kennenlernen
+* Markdown links? [Markdown-Cheatsheet#links]
 * simple-serial-protocol-docs aufbauen unter zuhilfenahme von [Markdown: Links and Cross References (dotnet)]
 
 ### DevOps
@@ -39,6 +49,7 @@ definiert ist (bsp: `release/2.0.1` oder `release/2.0.1-beta.0`)
         * getestet?
         * version korrekt erhöht?
         * müssen wir zusammen drüber sprechen
+
 
 
 ## Links
