@@ -1,5 +1,5 @@
 # Development
-dev dev dev
+dev - lorem ipsum durchdeven
 
 ## Branches (Gitflow) 
 inspiriert durch [GitFlow Examples]
@@ -15,6 +15,10 @@ definiert ist (bsp: `release/2.0.1` oder `release/2.0.1-beta.0`)
 * modrob/yesbotics tg-channel
 * via textdateien wie im hierigen fall
 * via issues gitlab
+
+### DocOps
+* Markdown Links? [Markdown-Cheatsheet#links]
+* simple-serial-protocol-docs aufbauen unter zuhilfenahme von [Markdown: Links and Cross References (dotnet)]
 
 ### DevOps
 * @kappaj: more examples readme
@@ -36,9 +40,6 @@ definiert ist (bsp: `release/2.0.1` oder `release/2.0.1-beta.0`)
         * version korrekt erhöht?
         * müssen wir zusammen drüber sprechen
 
-### DocOps
-* more docs needed: SimpleSerialProtocol
-* simple-serial-protocol-docs aufbauen unter zuhilfenahme von [Markdown: Links and Cross References]
 
 ## Links
 * [GitFlow Examples]:https://gitversion.readthedocs.io/en/latest/git-branching-strategies/gitflow-examples

@@ -13,11 +13,10 @@
 ## Protokoll Dokumentation
 
 ### Inspired by Antonin Raffin's minmalistic primitive datentypes approach
-* read Medium.com article [Simple and Robust Computer Arduino Serial Communication](simple-and-robust-computer-arduino-serial-communication)
-* git repo [araffin/arduino-robust-serial](https://github.com/araffin/arduino-robust-serial)
+* read Medium.com article [Simple and Robust Computer Arduino Serial Communication]
+* git repo [araffin/arduino-robust-serial]
 
 ### Datentypen und Bereiche
-
 * bool (8bit)
 
 * char (8bit) Einzelne Zeichen
@@ -43,4 +42,5 @@
 [Simple Serial Protocol for Arduino]:https://gitlab.com/yesbotics/simple-serial-protocol/simple-serial-protocol-arduino
 [Simple Serial Protocol for Node.Js]:https://gitlab.com/yesbotics/simple-serial-protocol/simple-serial-protocol-node
 [Simple and Robust Computer Arduino Serial Communication]:https://medium.com/@araffin/simple-and-robust-computer-arduino-serial-communication-f91b95596788
-
+[araffin/arduino-robust-serial]:https://github.com/araffin/arduino-robust-serial
+__
