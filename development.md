@@ -11,6 +11,8 @@ definiert ist (bsp: `release/2.0.1` oder `release/2.0.1-beta.0`)
 * `hotfix`: echte fixes und workarounds für live (published) releases
 
 ## TODOs
+* arduino lib in arduino registry
+
 ### Kommunikation, wie?
 * modrob/yesbotics tg-channel
 * via textdateien wie im hierigen fall
@@ -28,14 +30,14 @@ definiert ist (bsp: `release/2.0.1` oder `release/2.0.1-beta.0`)
 * Markdown und ggf. transpiler kennenlernen
 * Markdown links? [Markdown-Cheatsheet#links]
 * simple-serial-protocol-docs aufbauen unter zuhilfenahme von [Markdown: Links and Cross References (dotnet)]
-
-### DevOps
 * @kappaj: more examples readme
     * hier kommt kappaj's extrakt rein (aus der `README.md.old`) 
     * einzelinterval-examples zusammenfassen in einem standalone `AdvancedExample`
     * eigenständige node app (wie bei /examples/echo-example)
     * deinen test kram (seh ich als bestandteil - des im nächsten hauptpunkt erwähnten - deployments)
-    
+
+### DevOps
+
 #### Deployment
 * das deployment müssen wir entwickeln:
     * npm scripte 
