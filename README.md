@@ -1,20 +1,20 @@
-# Simple Serial Protocol
+# Simple Serial Protocol Documentation
 
-## Beschreibung des Ziels dieses Protokolls
+## Beschreibung des Umfangs bzw. Ziels dieses Protokolls
 * general purpose - define ur own ssp-based protocol
 * event-based (callbacks)
 * low bytes data transfer (based on fundamental c/c++ datatypes)
 * robust (low memory-safe)
 
 ## Platformen / Sprachen
-* Arduino ()
-* Node-Js
+* [Simple Serial Protocol for Arduino]
+* [Simple Serial Protocol for Node.Js]
 
 ## Protokoll Dokumentation
 
 ### Inspired by Antonin Raffin's minmalistic primitive datentypes approach
-* [simple-and-robust-computer-arduino-serial-communication](https://medium.com/@araffin/simple-and-robust-computer-arduino-serial-communication-f91b95596788)
-* gitrepo [araffin/arduino-robust-serial](https://github.com/araffin/arduino-robust-serial)
+* read Medium.com article [Simple and Robust Computer Arduino Serial Communication](simple-and-robust-computer-arduino-serial-communication)
+* git repo [araffin/arduino-robust-serial](https://github.com/araffin/arduino-robust-serial)
 
 ### Datentypen und Bereiche
 
@@ -39,7 +39,8 @@
     * pro ascii einzelzeichen 8bit
     * plus 8bit für end-of-string
 
-
-
-
+## Links
+[Simple Serial Protocol for Arduino]:https://gitlab.com/yesbotics/simple-serial-protocol/simple-serial-protocol-arduino
+[Simple Serial Protocol for Node.Js]:https://gitlab.com/yesbotics/simple-serial-protocol/simple-serial-protocol-node
+[Simple and Robust Computer Arduino Serial Communication]:https://medium.com/@araffin/simple-and-robust-computer-arduino-serial-communication-f91b95596788
 
