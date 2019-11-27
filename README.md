@@ -19,9 +19,11 @@
 ### Datentypen und Bereiche
 * bool (8bit)
 
+
 * char (8bit) Einzelne Zeichen
     * signed -128 to 127
     * unsigned 0 to 255
+
 
 * int or short (16bit) Kleine Zahlen (short kann raus oder?)
     * signed -32,768 to 32,767
@@ -31,8 +33,10 @@
     * signed -2,147,483,648 to 2,147,483,647
     * unsigned 0 to 4,294,967,295
     
+    
 * float (32bit)
     * ± 3.402,823,4 * 10^38
+
 
 * text / c-string / char-array (variable länge: abhängig von plattform, was möglich)
     * pro ascii einzelzeichen 8bit
