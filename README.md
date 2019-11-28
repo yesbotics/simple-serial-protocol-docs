@@ -16,20 +16,20 @@ The author has written an article at Medium.com [Simple and Robust Computer Ardu
 
 ## Datatypes and Traffic Consumption
 ### Logic values
-* **boolean**: true or false (8bit)
+* **boolean**: true or false (8 bit/1 byte)
 ### Characters and Text - (printable ASCII only)
-* **char**: single character (8bit/1byte)
+* **char**: single character (8 bit/1 byte)
 * **text**: char array / c-string (variable data size)
-    * single character (8bit/1byte)
-    * plus end-of-string (8bit/1byte)(non-printable ASCII) 
+    * single character (8 bit/1 byte)
+    * plus end-of-string (8 bit/1 byte)(non-printable ASCII) 
 ### Numeric values
-* **int**: integer value (16bit) 
+* **int**: integer value (16 bit / 2 bytes) 
     * signed -32,768 to 32,767
     * unsigned 0 to 65,523 
-* **long**: (32bit) Große zahlen
+* **long**: big integer values (32 bit / 4 bytes)
     * signed -2,147,483,648 to 2,147,483,647
     * unsigned 0 to 4,294,967,295  
-* **float**: (32bit)
+* **float**: floating point values (32 bit / 4 bytes)
     * ± 3.402,823,4 * 10^38
 
 ### Limitations
