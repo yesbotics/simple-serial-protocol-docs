@@ -10,9 +10,6 @@ develop branch rein)
 definiert ist (bsp: `release/2.0.1` oder `release/2.0.1-beta.0`)
 * `hotfix`: echte fixes und workarounds für live (published) releases
 
-## TODOs
-* arduino lib in arduino registry
-
 ### Kommunikation, wie?
 * modrob/yesbotics tg-channel
 * via textdateien wie im hierigen fall
@@ -57,5 +54,7 @@ definiert ist (bsp: `release/2.0.1` oder `release/2.0.1-beta.0`)
 [Markdown: Links and Cross References]:https://dotnet.github.io/docfx/tutorial/links_and_cross_references.html
 [Publishing a beta or alpha version to NPM]:https://medium.com/@kevinkreuzer/publishing-a-beta-or-alpha-version-to-npm-46035b630dd7
 [Have `npm version` not prepend “v” to the git tag]:https://stackoverflow.com/questions/37788907/have-npm-version-not-prepend-v-to-the-git-tag
+[Arduino library specifications]:https://github.com/arduino/Arduino/wiki/Arduino-IDE-1.5:-Library-specification
 [Thoughts on Flash - Apple]:https://www.apple.com/hotnews/thoughts-on-flash/
 [Thoughts on Flash - Wikipedia]:https://en.wikipedia.org/wiki/Thoughts_on_Flash
+
