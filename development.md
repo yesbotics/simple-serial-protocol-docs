@@ -6,7 +6,12 @@ inspiriert durch [GitFlow Examples]
 * `master`: live. echte releases. (erst, wenn was published wurde kommt hier zeug aus'm 
 develop branch rein)
 * `develop`: nur fertige candidates hier drin (getestet und lauffähig)
-* `release`: übergeordneter branch für next-level shit, der klar in versionen 
+    * Pufferzone vor Veröffentlichung
+* `release`: übergeordneter branch für next-level shit, der klar in versionen
+    * Ist dem develop untergeordnet
+    * Von hier aus wird published.
+        * und zwar nur dev-releases `npm publish --tag dev`
+        * installierbar via npm i `@yesbotics/simple-serial-protocol-node`
 definiert ist (bsp: `release/2.0.1` oder `release/2.0.1-beta.0`)
 * `hotfix`: echte fixes und workarounds für live (published) releases
 
@@ -32,8 +37,6 @@ definiert ist (bsp: `release/2.0.1` oder `release/2.0.1-beta.0`)
     * einzelinterval-examples zusammenfassen in einem standalone `AdvancedExample`
     * eigenständige node app (wie bei /examples/echo-example)
     * deinen test kram (seh ich als bestandteil - des im nächsten hauptpunkt erwähnten - deployments)
-
-### DevOps
 
 #### Deployment
 * das deployment müssen wir entwickeln:
