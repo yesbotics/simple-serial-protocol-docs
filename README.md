@@ -48,8 +48,9 @@ The Simple Serial Protocol is inspired by Antonin Raffin's minimalistic primitiv
 The author has written an article at Medium.com [Simple and Robust Computer Arduino Serial Communication].
 
 ## Links
-[Simple Serial Protocol for Arduino]:https://gitlab.com/yesbotics/simple-serial-protocol/simple-serial-protocol-arduino
-[Simple Serial Protocol for Node.js]:https://gitlab.com/yesbotics/simple-serial-protocol/simple-serial-protocol-node
+[Simple Serial Protocol for Arduino]:https://github.com/yesbotics/simple-serial-protocol-arduino
+[Simple Serial Protocol for Node.js]:https://github.com/yesbotics/simple-serial-protocol-node
+[Simple Serial Protocol for C++]:https://github.com/yesbotics/simple-serial-protocol-cpp
 [Simple and Robust Computer Arduino Serial Communication]:https://medium.com/@araffin/simple-and-robust-computer-arduino-serial-communication-f91b95596788
 [araffin/arduino-robust-serial]:https://github.com/araffin/arduino-robust-serial
 __
