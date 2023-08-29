@@ -9,6 +9,7 @@ Let's close the gap!
 ## Supported Platforms and Languages
 * [Simple Serial Protocol for Arduino]
 * [Simple Serial Protocol for Node.js]
+* [Simple Serial Protocol for C++]
 
 ## Datatypes and Traffic Consumption
 
